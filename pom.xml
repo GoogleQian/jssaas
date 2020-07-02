@@ -15,7 +15,7 @@
     </parent>
 
     <properties>
-        <mysql.version>5.1.29</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <alibaba.version>1.0.2</alibaba.version>
         <!--<codehaus.jackson.version>1.9.12</codehaus.jackson.version>-->
         <!--<fasterxml.jackson.version>2.2.2</fasterxml.jackson.version>-->
